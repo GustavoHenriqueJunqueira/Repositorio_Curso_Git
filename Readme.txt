@@ -7,3 +7,10 @@ Feito mais uma alteração para vermos como se comporta o terminal direto do vs 
 Vendo como o sistema identifica as ultimas versoes.
 
 Outra alteração para ver como o git vai pegar sendo que estou mechendo também no index de outra pagina
+
+
+
+Alteração para ver como o git vai apresendar está mudança antes de ser enviado ao Commit.
+
+
+Mais alterações para ver as modificações.
