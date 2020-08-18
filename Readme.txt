@@ -14,3 +14,6 @@ Alteração para ver como o git vai apresendar está mudança antes de ser envia
 
 
 Mais alterações para ver as modificações.
+
+
+Alterações todas realizadas, fazendo esta nova alteração para ser enviado ao Github.
